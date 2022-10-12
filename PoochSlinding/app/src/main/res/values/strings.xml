@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Pooch Slinding</string>
+    <string name="app_title">Pooch Slinding</string>
+
+    <string name="preference_file_key">com.posl.poochslinding.view.n_puzzle.PREFERENCE_FILE_KEY</string>
+
+    <string name="randomizing">Перетасовка</string>
+    <string name="inversions">Подсчет инверсий</string>
+    <string name="randomized">Показать решение</string>
+    <string name="new_game">Новая игра</string>
+    <string name="pause">Пауза</string>
+    <string name="resume">Продолжить</string>
+
+    <string name="skip">Пропустить решение</string>
+    <string name="upload_picture">Загрузить изображение</string>
+
+    <string name="user_solved">Хорошо!</string>
+    <string name="fastest_score">Быстро!</string>
+    <string name="high_score">Браво!</string>
+    <string name="fewest_score">Великолепно!</string>
+    <string name="computer_solved">Движений</string>
+
+    <string name="default_move_count">-</string>
+    <string name="default_timer">-:--:--</string>
+
+    <string name="move_count">Перемещений:&#xA0;</string>
+    <string name="fewest_moves">Наименьшее:&#xA0;</string>
+    <string name="timer">Таймер:&#xA0;</string>
+    <string name="fastest_time">Быстреейший:&#xA0;</string>
+
+    <string name="trivia">Головоломку можно решить не меньше чем за 31 ход.</string>
+
+    <string name="default_image">Lobster Shoob</string>
+    <string-array name="puzzle_images">
+        <item>СОБАКА 1</item>
+        <item>СОБАКА 2</item>
+        <item>СОБАКА 3</item>
+        <item>СОБАКА 4</item>
+        <item>СОБАКА 5</item>
+        <item>ГАЛЕРЕЯ </item>
+    </string-array>
+
+    <string name="no_permission">Недостаточное разрешение на доступ к галерее</string>
+    <string name="iv_splash_logo">Заполнитель для логотипа</string>
+</resources>
